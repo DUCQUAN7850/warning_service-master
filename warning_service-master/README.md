@@ -186,3 +186,17 @@ pending this API for visualize
    // status :[0,  1,  0,  0,  2,   0,  0]
 }
 ```
+
+
+## Restart process
+
+**URL** : `/restart`
+
+**Method** : `POST`
+
+
+## Restart all
+
+**URL** : `/restart-all`
+
+**Method** : `POST`
